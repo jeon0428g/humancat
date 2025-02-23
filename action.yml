@@ -1,4 +1,4 @@
-name: 'Humancat action'
+name: 'Humancat action jeon0428g'
 description: 'Generate Human and Cat (GitHub Action Practice)'
 inputs:
   human-name:  # id of input
